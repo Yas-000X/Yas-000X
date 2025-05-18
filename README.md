@@ -12,7 +12,7 @@ From uncovering subtle bugs to strengthening protocol logic, I live at the inter
 - 🧱 Building secure primitives in Solidity  
 - 🔭 Active on Cantina and Code4rena
 
-> Security profile → [Cantina.xyz/u/Yas-000X](https://cantina.xyz/u/Yas-000X)
+> Security profile → [cantina.xyz/u/Yas000X](https://cantina.xyz/u/Yas000X)
 
 ---
 
