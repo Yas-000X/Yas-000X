@@ -10,7 +10,6 @@ From uncovering subtle bugs to strengthening protocol logic, I live at the inter
 - 🔐 Full-time auditing of DeFi and blockchain protocols  
 - 🧪 Writing fuzz tests and invariants  
 - 🧱 Building secure primitives in Solidity  
-- 🔭 Active on Cantina and Code4rena
 
 > Security profile → [cantina.xyz/u/Yas000X](https://cantina.xyz/u/Yas000X)
 
