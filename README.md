@@ -1,8 +1,9 @@
 ## 👋 Hi, I'm Yas000X
 
-Smart contract auditor specializing in DeFi security. 
-I break protocols so they can't be broken – methodically dissecting complex systems to uncover vulnerabilities before attackers do. 
-When not auditing, I'm researching novel attack vectors or building defensive primitives
+DeFi Guardian | Smart Contract Security Researcher  
+
+Securing the DeFi world , My mission: dissect complex systems, uncover hidden vulnerabilities, and fortify them before attackers strike.
+Researching novel attack vectors or building defensive primitives to make decentralized finance safer for everyone.
 
 ---
 
