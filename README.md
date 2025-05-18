@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Yas000X
+## 👋 Hi, I'm Yas000X
 
-I'm a blockchain security researcher & smart contract auditor with a deep curiosity for all things decentralized.  
-From uncovering subtle bugs to strengthening protocol logic, I live at the intersection of code and security.
-
+Smart contract auditor specializing in DeFi security. 
+I break protocols so they can't be broken – methodically dissecting complex systems to uncover vulnerabilities before attackers do. 
+When not auditing, I'm researching novel attack vectors or building defensive primitives
 ---
 
-## 🧠 Current Focus
+### 🧠 Current Focus
 
 - 🔐 Full-time auditing of DeFi and blockchain protocols  
 - 🧪 Writing fuzz tests and invariants  
@@ -15,16 +15,16 @@ From uncovering subtle bugs to strengthening protocol logic, I live at the inter
 
 ---
 
-## 🌙 Daily Workflow
+### 🌙 Daily Workflow
 
 | Time  | Activity |
 |-------|----------|
-| ☀️ Day | Reading papers, reverse engineering exploits, breaking assumptions |
-| 🌙 Night | Auditing contracts, submitting findings, and reviewing others’ work |
+| ☀️ Day | Auditing contracts, submitting findings, and reviewing others’ work | 
+| 🌙 Night | Deep research: novel exploit vectors, DeFi economic models |
 
 ---
 
-## 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
 - **Languages**: Solidity, Go, Cairo, JavaScript  
 - **Auditing Tools**: Foundry, Hardhat
@@ -32,7 +32,7 @@ From uncovering subtle bugs to strengthening protocol logic, I live at the inter
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 
 Feel free to connect or collaborate —  
 🔗 [cantina.xyz/u/Yas000X](https://cantina.xyz/u/Yas000X)
