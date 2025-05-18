@@ -36,7 +36,7 @@ From uncovering subtle bugs to strengthening protocol logic, I live at the inter
 ## 📫 Contact
 
 Feel free to connect or collaborate —  
-🔗 [cantina.xyz/u/Yas-000X](https://cantina.xyz/u/Yas-000X)  
+🔗 [cantina.xyz/u/Yas000X](https://cantina.xyz/u/Yas000X)
 📧 DM me on Cantina or drop a GitHub issue on any repo!
 
 ---
