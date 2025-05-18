@@ -2,7 +2,7 @@
 
 DeFi Guardian | Smart Contract Security Researcher  
 
-"I uncover vulnerabilities in DeFi's deepest layers — dissecting protocols, neutralizing threats, and engineering unbreakable primitives to safeguard decentralized finance for all."
+<span style="font-style: italic; color: #2e86de; text-decoration: underline;">I uncover vulnerabilities in DeFi's deepest layers — dissecting protocols, neutralizing threats, and engineering unbreakable primitives to safeguard decentralized finance for all.</span>  
 
 ---
 
