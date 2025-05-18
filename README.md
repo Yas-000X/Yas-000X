@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Yas-000X
+# 👋 Hi, I'm Yas000X
 
 I'm a blockchain security researcher & smart contract auditor with a deep curiosity for all things decentralized.  
 From uncovering subtle bugs to strengthening protocol logic, I live at the intersection of code and security.
