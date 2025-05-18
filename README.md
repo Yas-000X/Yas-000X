@@ -32,13 +32,7 @@
 
 ---
 
-### 📫 Contact
 
-Feel free to connect or collaborate —  
-🔗 [cantina.xyz/u/Yas000X](https://cantina.xyz/u/Yas000X)
-📧 DM me on Cantina or drop a GitHub issue on any repo!
-
----
 
 > “My crime is that of curiosity.” — The Mentor
 
