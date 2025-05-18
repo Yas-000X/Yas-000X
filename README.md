@@ -2,8 +2,7 @@
 
 DeFi Guardian | Smart Contract Security Researcher  
 
-My mission: dissect complex systems, uncover hidden vulnerabilities, and fortify them before attackers strike 
-& researching novel attack vectors building defensive primitives to make decentralized finance safer for everyone.
+"I uncover vulnerabilities in DeFi's deepest layers — dissecting protocols, neutralizing threats, and engineering unbreakable primitives to safeguard decentralized finance for all."
 
 ---
 
