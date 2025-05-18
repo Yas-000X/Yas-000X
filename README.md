@@ -3,6 +3,7 @@
 Smart contract auditor specializing in DeFi security. 
 I break protocols so they can't be broken – methodically dissecting complex systems to uncover vulnerabilities before attackers do. 
 When not auditing, I'm researching novel attack vectors or building defensive primitives
+
 ---
 
 ### 🧠 Current Focus
