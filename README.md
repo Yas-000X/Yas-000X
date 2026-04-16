@@ -12,6 +12,7 @@
 - 🧱 Building secure primitives in Solidity  
 
 > Security profile → [cantina.xyz/u/Yas000X](https://cantina.xyz/u/Yas000X)
+> Security profile → [https://audits.sherlock.xyz/watson/chainproof](https://audits.sherlock.xyz/watson/chainproof)
 
 ---
 
