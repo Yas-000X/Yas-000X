@@ -28,7 +28,7 @@
 
 #### 🛠️ Tech Stack
 
-- **Languages**: Solidity, Go, Cairo, JavaScript  
+- **Languages**: Solidity, Go, Rust, Cairo, JavaScript  
 - **Auditing Tools**: Foundry, Hardhat
 - **Practices**: Manual reviews, fuzzing, invariant testing, threat modeling
 
